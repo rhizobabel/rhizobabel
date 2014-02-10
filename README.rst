@@ -50,9 +50,9 @@ Utilisation
 -----------
 
 
-<code>
-python setup.py install
-</code>
+.. bash::
+	python setup.py install
+
 
 
 
