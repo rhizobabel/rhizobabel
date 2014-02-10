@@ -1,4 +1,5 @@
-====== RhizoBabel ======
+RhizoBabel
+==========
 
 **Authors** : 
   - Julien Diener
@@ -12,34 +13,41 @@
 
 **URL** : https://github.com/rhizobabel/rhizobabel
 
-===== About =====
+About
+-----
 
-=== Description ===
+Description
++++++++++++
 
 RhizoBabel is a XXX
 
 
 
-=== Content ===
+Content
++++++++
 
 The RhizoBabel package contains :
 
 
-===== Installation =====
+Installation
+------------
 
-=== Download ===
+Download
+++++++++
 
 Go to http://gforge.inria.fr/frs/?group_id=79
 
-=== Requirements ===
+Requirements
++++++++++++++
 
 * OpenAlea.Deploy
 * OpenAlea.MTG
 
-=== Installation ===
+Installation 
+++++++++++++
 
-
-=== Utilisation ===
+Utilisation
+-----------
 
 
 <code>
