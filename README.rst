@@ -1,6 +1,8 @@
 ====== RhizoBabel ======
 
-**Authors** : XXX
+**Authors** : 
+  - Julien Diener
+  - Christophe Pradal
 
 **Institutes** : INRIA / CIRAD 
 
@@ -8,7 +10,7 @@
 
 **License** : Cecill-C
 
-**URL** : http://openalea.gforge.inria.fr
+**URL** : https://github.com/rhizobabel/rhizobabel
 
 ===== About =====
 
@@ -31,11 +33,8 @@ Go to http://gforge.inria.fr/frs/?group_id=79
 
 === Requirements ===
 
-* Scons >= 1
-* SconsX
 * OpenAlea.Deploy
-* Boost.Python
-
+* OpenAlea.MTG
 
 === Installation ===
 
@@ -48,8 +47,4 @@ python setup.py install
 </code>
 
 
-
-===== Documentation =====
-
-http://openalea.gforge.inria.fr/doc//rhizobabel/doc/_build/html/contents.html
 
