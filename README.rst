@@ -3,13 +3,15 @@ RhizoBabel
 
 **Authors** : 
   - Julien Diener
+  - Xavier Draye
   - Christophe Pradal
+  - <Add your name here>
 
-**Institutes** : INRIA / CIRAD 
+**Institutes** : INRIA / CIRAD / UCL / <add your institute here>
 
 **Status** : Python package 
 
-**License** : Cecill-C
+**License** : Cecill-C (L-GPL like)
 
 **URL** : https://github.com/rhizobabel/rhizobabel
 
@@ -19,7 +21,7 @@ About
 Description
 +++++++++++
 
-RhizoBabel is a XXX
+RhizoBabel is a toolbox to speak the different languages of Root System Architecture (RSA) data.
 
 
 
@@ -35,7 +37,6 @@ Installation
 Download
 ++++++++
 
-Go to http://gforge.inria.fr/frs/?group_id=79
 
 Requirements
 +++++++++++++
