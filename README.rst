@@ -5,9 +5,10 @@ RhizoBabel
   - Julien Diener
   - Xavier Draye
   - Christophe Pradal
+  - Guillaume Lobet
   - <Add your name here>
 
-**Institutes** : INRIA / CIRAD / UCL / <add your institute here>
+**Institutes** : INRIA / CIRAD / UCL / ULg / <add your institute here>
 
 **Status** : Python package 
 
